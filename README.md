@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. 前往 Github 项目页面 https://github.com/yuesha-yc/GregTech6U-Chinese-Localization（就是你现在在的页面）
+1. 前往 Github 项目页面 https://github.com/yuesha-yc/GregTech6U-Chinese-Localization （就是你现在在的页面）
 
 2. 点击 绿色的按钮 “Code”
 
