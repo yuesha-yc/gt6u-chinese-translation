@@ -1,5 +1,7 @@
 # GregTech6U-Chinese-Localization
 
+感谢原始作者和以往翻译者：https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation
+
 # 格雷科技6非官方版 汉化
 
 ## 使用方法
